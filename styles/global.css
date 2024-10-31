@@ -27,6 +27,15 @@ blockquote {
 
 a {
   color: inherit;
+  text-underline-offset: 4px;
+  text-decoration-skip-ink: none;
+  text-decoration-thickness: from-font;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  border: none;
 }
 
 img {
